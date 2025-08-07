@@ -1,0 +1,1 @@
+console.log("Tutorial 22 exercise 2 JavaScript");
