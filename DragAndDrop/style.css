@@ -1,0 +1,53 @@
+body {
+    background: purple;
+    text-align: center; 
+    justify-content: center;
+    margin-top: 150px;
+}
+
+h1{
+    font-style: italic;
+    background-color: aqua;
+    margin: 20px 328px;
+    padding: 10px;
+}
+p{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.8rem;
+    background-color: aqua;
+    margin: 20px 328px;
+    padding: 10px;
+}
+
+.imgBox {
+    background-image: url('coders.jpg');
+    position: relative;
+    height: 145px;
+    width: 145px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.whitebox {
+    display: inline-block;
+    height: 155px;
+    width: 155px;
+    margin: 10px;
+    background-color: black;
+    border: 3px red solid;
+}
+
+.hold{
+    border: 4px solid yellow;
+}
+
+.hide{
+    display: none;
+}
+
+.dashed{
+    background:blue;
+    border-style: dashed;
+}
